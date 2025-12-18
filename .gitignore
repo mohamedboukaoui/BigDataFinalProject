@@ -209,3 +209,6 @@ __marimo__/
 
 # macOS system files
 .DS_Store
+
+# IMDB datasets (do not version large data files)
+data/
